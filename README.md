@@ -1,6 +1,6 @@
 # my-ui
 
- HomePage: [link](https://zkcpps.github.io/kely-UI/).
+[HomePage](https://zkcpps.github.io/kely-UI/).
 
 ## Getting Started
 
